@@ -86,7 +86,7 @@ body {
   .profile-fullname{
     font-family: cursive;
     font-weight: 600;
-    color: #ffc1c1;
+    color: #00072D;
   }
 
   .navbar {
@@ -796,13 +796,13 @@ textarea.form-control {
 .contact-info__social-link {
   display: inline-block;
   font-size: 20px;
-  color: #3c3f58;
+  color: #00072D;
   margin-right: 10px;
   transition: color 0.3s ease;
 }
 
 .contact-info__social-link:hover {
-  color: #707793;
+  color: #ffc1c1;
 }
 
 .contact-header{
